@@ -15,7 +15,7 @@ const Countries = () => {
 
     return (
         <div >
-            <h1>Hello from Countries :{countries.length }</h1>
+            <h2>Hello from Countries :{countries.length }</h2>
             {/* {
                 countries.map(country => console.log(country))
             } */}
